@@ -1,0 +1,87 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+}
+
+/* math-game-container*/
+.math-game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.math-images-container {
+  border-radius: 10px;
+}
+
+.style-images {
+  height: 300px;
+  width: 500px;
+}
+
+/* tab-container*/
+.tabs-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* thumbnails-container */
+
+.thumbnails-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 50%;
+  margin-left: 40px;
+}
+
+/* score-card-container */
+
+.score-card-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 800px;
+  width: 800px;
+}
+
+.trophy-image {
+  height: 200px;
+  width: 200px;
+}
+.trophy-container {
+  margin-top: 200px;
+}
+.score-view-container {
+  text-align: center;
+}
+.score-heading {
+  color: #ffffff;
+}
+.score-view-para {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.play-btn {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: #cf60c8;
+}
+.match-item {
+  list-style-type: none;
+}

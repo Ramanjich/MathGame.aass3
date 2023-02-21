@@ -1,0 +1,18 @@
+.items {
+  list-style-type: none;
+  margin-left: 10px;
+}
+
+.tab-btn {
+  background-color: transparent;
+  border: none;
+
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Roboto;
+}
+
+.active-btn {
+  color: #fec653;
+  border-bottom: 2px solid #ffffff;
+}

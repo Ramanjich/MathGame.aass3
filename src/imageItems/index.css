@@ -1,0 +1,13 @@
+.thumb-items {
+  list-style-type: none;
+  margin: 5px;
+}
+.thumb-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.thumb-image {
+  height: 100px;
+  width: 100px;
+}

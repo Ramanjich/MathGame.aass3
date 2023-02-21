@@ -1,0 +1,49 @@
+.nav-container {
+  background-color: #2c0e3a;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo-image-container {
+  margin-left: 20px;
+}
+
+.logo-image {
+  height: 100px;
+  width: 220px;
+}
+.score-timer-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-right: 40px;
+  list-style-type: none;
+}
+.timer-container {
+  display: flex;
+  flex-direction: row;
+}
+.clock-image {
+  height: 30px;
+  width: 30px;
+}
+
+.score-container {
+  margin-right: 50px;
+}
+.clock-con {
+  margin-top: 8px;
+  margin-right: 5px;
+}
+.score-para {
+  color: #ffffff;
+}
+
+.span-ele {
+  color: #fec653;
+}
+
+.sec-para {
+  color: #fec653;
+}
